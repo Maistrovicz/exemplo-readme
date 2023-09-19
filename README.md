@@ -14,6 +14,8 @@ Projeto iniciado 1º C.
 
 ## Descrição
 
+
+
 ## Introdução
 
 ## Funcionalidade
@@ -23,3 +25,5 @@ Projeto iniciado 1º C.
 ## Fonte utilizadas
 
 ## Autores
+
+Lenonardo Maistrovicz e Antony Barbosa
